@@ -1,0 +1,29 @@
+[{
+    "_id": {
+      "$oid": "5f15d8852a025143f9593a7c"
+    },
+    "image": "https://images.pexels.com/photos/298863/pexels-photo-298863.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "category" : "Fashion",
+    "caption": "Men's Accesories"
+  },{
+    "_id": {
+      "$oid": "5f15d8852a025143f9593a7c"
+    },
+    "image": "https://images.pexels.com/photos/744318/pexels-photo-744318.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "category": "Electronics",
+    "caption": "Sound and Production"
+  },{
+    "_id": {
+      "$oid": "5f15d8852a025143f9593a7c"
+    },
+    "image": "https://images.pexels.com/photos/994523/pexels-photo-994523.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "category" : "Fashion",
+    "caption": "Women's Fashion"
+  },{
+    "_id": {
+      "$oid": "5f15d8852a025143f9593a7c"
+    },
+    "image": "https://images.pexels.com/photos/164634/pexels-photo-164634.jpeg?auto=compress&cs=tinysrgb&w=300",
+    "category" : "Automobile",
+    "caption": "Best Car Accessories"
+  }]
